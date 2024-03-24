@@ -8,8 +8,6 @@
 Three code solutions to the code challenges
 
 ## Technologies used
-HTML
-CSS
 Github
 Javascript
 
